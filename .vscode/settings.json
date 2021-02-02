@@ -1,0 +1,10 @@
+{
+    "prettier.configPath": ".prettierrc",
+    "editor.formatOnSave": false,
+    "[javascript]": {
+        "editor.formatOnSave": true
+    },
+    "[typescript]": {
+        "editor.formatOnSave": true
+    }
+}
